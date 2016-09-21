@@ -1,6 +1,6 @@
 <item>
 <title>Firestick</title>
-<link>https://github.com/waynekodi/repo_updates/blob/master/kodi1.9.3.FIRESTICK.zip?dl=1</link>
+<link = OPEN URL>https://github.com/waynekodi/repo_updates/blob/master/kodi1.9.3.FIRESTICK.zip?dl=1</link>
 <thumbnail>https://github.com/waynekodi/images/blob/master/firestick.png</thumbnail>
 <fanart></fanart>
 </item>
